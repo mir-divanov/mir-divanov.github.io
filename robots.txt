@@ -1,5 +1,2 @@
 User-agent: *
 Allow: /
-
-# [ЗАМЕНИТЬ] Впишите свой домен и уберите решётку в начале строки:
-# Sitemap: https://example.ru/sitemap.xml
